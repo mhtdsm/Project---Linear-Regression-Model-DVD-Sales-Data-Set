@@ -1,4 +1,9 @@
 # Project---Linear-Regression-Model-DVD-Sales-Data-Set
+### Uploaded project  
+   1.  With testing & dtraining dataset : R script &  R-Markdown with knitted ( HTML document)
+   2.  Without testing & training : R- Script only
+
+
 ## Refer Sales_dataset.csv
 Project – Create a Linear Regression Model for DVD sales data set
 
